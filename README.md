@@ -1,3 +1,5 @@
+[![Threat Hunting w praktyce / Sekurak Cyberstarter 2024](https://img.youtube.com/vi/4Fmsutnvae8/0.jpg)](https://www.youtube.com/watch?v=4Fmsutnvae8)
+
 ### Threat Hunting w praktyce / Sekurak Cyberstarter 2024
 Odnośniki z prezentacji
 * https://www.youtube.com/watch?v=VW0szfPHeo0&t=88s - DHCP Starvation (DoS) Attack // Python Scapy Red Team Script
